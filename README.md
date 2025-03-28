@@ -80,11 +80,11 @@ To run the project locally on your machine, follow these steps:
 
 5. Open your browser and go to `http://localhost:3000` to access the app.
 
-<!-- ## Hosting
+ ## Hosting
 
 The application is hosted and accessible online. You can use the following link to access the live version:
 
-[MeetUp - Instant Video Calling](https://meetup-production-40ff.up.railway.app/) -->
+[MeetUp - Instant Video Calling](https://gmeet-up.netlify.app/)
 
 ## Architecture Diagram
 
